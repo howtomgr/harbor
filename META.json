@@ -1,0 +1,61 @@
+{
+  "category": "container-registries",
+  "created_date": "2025-09-15T22:48:57.734453",
+  "default_ports": [
+    80,
+    443,
+    4443
+  ],
+  "dependencies": [],
+  "description": "harbor is a free and open-source cloud native registry. Harbor provides container image registry with security scanning, signing, and replication, serving as an enterprise alternative to Docker Hub",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/container-registries/harbor",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/container-registries/harbor",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.734472",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "harbor",
+  "repository_url": "https://github.com/howtomgr/harbor",
+  "spec_version": "2.0",
+  "subcategory": "container-registries",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "container-registries",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "harbor Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/container-registries/harbor"
+}
